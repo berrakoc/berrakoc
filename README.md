@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berrakoc&label=Profile%20views&color=0e75b6&style=flat" alt="berrakoc" /> </p>
 
-- 🔭 I’m currently working on [Restaurant Project](https://github.com/Kod48/Restaurant_project)
+- 🔭 I’m currently working on [SayItBettr Project](https://github.com/Kod48/Restaurant_project)
 
-- 🌱 I’m currently learning **Java, C, Python.**
+- 🌱 I’m currently learning **Python, Java, C.**
 
 - 📫 How to reach me **kocberra3@gmail.com**
 
