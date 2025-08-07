@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://images7.alphacoders.com/548/548462.jpg" alt="MasterHead" width="600" height="300">
-</p>
-
 <h1 align="center">Hi 👋, I'm Berra</h1>
 <h3 align="center">A passionate developer from Turkey.</h3>
 
