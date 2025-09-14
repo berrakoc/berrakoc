@@ -29,13 +29,16 @@ My current interests are in **Machine Learning, Deep Learning, Artificial Intell
 `Java (Spring Boot)` · `Python` · `C` · `PyTorch` · `OpenCV` · `YOLOv8` · `Detectron2` ·  
 `NumPy/Pandas` · `PyQt5` · `Streamlit` · `Git/GitHub` · `HTML/CSS` · `JavaScript` · `SQL`
 
-### 📊 LeetCode Stats
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=berrakoc&show_icons=true&locale=en&layout=compact)
+
+
+### 🔥 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/bellakoc?theme=dark&font=Source%20Sans%20Pro&ext=contest)](https://leetcode.com/bellakkoc/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berrakoc&show_icons=true&locale=en&layout=compact" alt="berrakoc" /></p>
 
 ### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-berrakoc-blue?logo=linkedin)](https://www.linkedin.com/in/berrakoc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-berrakoc-blue?logo=linkedin)](https://www.linkedin.com/in/berrakoc/)  
 [![Email](https://img.shields.io/badge/Email-kocberra03%40gmail.com-red?logo=gmail)](mailto:kocberra03@gmail.com)
 
 
