@@ -32,6 +32,7 @@ My current interests are in **Machine Learning, Deep Learning, Artificial Intell
 ### 📊 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/bellakoc?theme=dark&font=Source%20Sans%20Pro&ext=contest)](https://leetcode.com/bellakkoc/)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berrakoc&show_icons=true&locale=en&layout=compact" alt="berrakoc" /></p>
 
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-berrakoc-blue?logo=linkedin)](https://www.linkedin.com/in/berrakoc/)
